@@ -1,2 +1,3 @@
 # PageInstagram
-Recriando a Pagina do Instagram
+Curso da Digital Innovation One: 
+Recriando a página inicial do Instagram
